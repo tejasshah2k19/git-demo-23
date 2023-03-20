@@ -13,3 +13,22 @@
 
 
 11) hey this is demo line 
+
+12) code changes 
+13) git commit -m "feature name" . 
+14) git push origin master 
+
+
+*****NEW FILE CREATE**** 
+git add newFILE
+git commit -m "feature name" . 
+git push origin master 
+
+
+***NEWFILE SRC/CONTROLLER/ABCCONTROLLER****
+git add src 
+git commit -m "ABC CONTROLLER" . 
+git push origin master 
+
+
+
