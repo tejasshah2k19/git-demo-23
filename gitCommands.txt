@@ -7,6 +7,9 @@
 6) link your local repo [ computer project] ==> github repo  --> 1 time 
 	git remote add origin https://github.com/tejasshah2k19/git-demo-23.git
 7) git status --- list all your content 
-8) git add gitCommands.txt 
+8) git add gitCommands.txt  
+9) git commit -m "gitCommands.txt" gitCommands.txt [git commit -m "msg" . ]
+10) git push origin master  
 
 
+11) hey this is demo line 
